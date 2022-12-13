@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sinema_büfe_satış_uygulaması/1.0.0": {
+        "runtime": {
+          "sinema_büfe_satış_uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinema_büfe_satış_uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

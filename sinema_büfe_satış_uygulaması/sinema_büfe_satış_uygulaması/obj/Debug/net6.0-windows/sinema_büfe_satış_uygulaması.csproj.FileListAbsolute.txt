@@ -1,0 +1,17 @@
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.csproj.AssemblyReference.cache
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.Form1.resources
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.csproj.GenerateResource.cache
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.AssemblyInfoInputs.cache
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.AssemblyInfo.cs
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\bin\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.exe
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\bin\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.deps.json
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\bin\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.runtimeconfig.json
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\bin\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.dll
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\bin\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.pdb
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.dll
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\refint\sinema_büfe_satış_uygulaması.dll
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.pdb
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\sinema_büfe_satış_uygulaması.genruntimeconfig.cache
+C:\Users\Sony\source\repos\sinema_büfe_satış_uygulaması\sinema_büfe_satış_uygulaması\obj\Debug\net6.0-windows\ref\sinema_büfe_satış_uygulaması.dll
